@@ -1,0 +1,44 @@
+body {
+    background: midnightblue;
+    font-family: "Comic Sans MS", serif;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+.games {
+    background: black;
+    height: 600px;
+    width: 800px;
+}
+
+.defender {
+    position: relative;
+}
+
+#ufo {
+    position: absolute;
+}
+
+#mezo {
+    position: absolute;
+    left: 20%;
+    top: 0px;
+}
+.info {
+    width: 20%;
+    height: 100px;
+    background-color: #5660ff;
+    text-align: center;
+    color: #191970;
+}
+.toplist {
+    background-color: #191970;
+    color: #9b9bf8;
+    text-align: center;
+    width: 20%;
+    height: 300px;
+}
+.indito{
+    text-align: center;
+}
